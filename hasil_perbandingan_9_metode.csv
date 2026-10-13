@@ -1,0 +1,19 @@
+Metode,Metric,Jumlah Cluster,Jumlah Noise,Waktu (s),Memory (KB),Silhouette,Label
+K-Means,Euclidean,3,0,0.379,870.57,0.2618,"K-Means
+Euclidean"
+K-Means,Manhattan,3,0,0.0871,214.6,0.2895,"K-Means
+Manhattan"
+K-Means,Cosine,3,0,0.0806,212.27,0.4496,"K-Means
+Cosine"
+DBSCAN,Euclidean,3,62,0.0698,518.04,0.0571,"DBSCAN
+Euclidean"
+DBSCAN,Manhattan,3,52,0.0734,511.55,0.0345,"DBSCAN
+Manhattan"
+DBSCAN,Cosine,3,72,0.1071,43954.29,-0.3548,"DBSCAN
+Cosine"
+Hierarchical,Euclidean,3,0,0.1217,9881.26,0.3211,"Hierarchical
+Euclidean"
+Hierarchical,Manhattan,3,0,0.1182,9858.62,0.2111,"Hierarchical
+Manhattan"
+Hierarchical,Cosine,3,0,0.1123,9858.66,0.3964,"Hierarchical
+Cosine"
