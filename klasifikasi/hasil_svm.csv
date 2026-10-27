@@ -1,0 +1,2 @@
+Metode,Konfigurasi,Akurasi,Precision,Recall,F1
+SVM,"kernel=rbf, C=1, gamma=1",0.6726666666666666,0.6624724428547326,0.6732026379088731,0.6616106389840417

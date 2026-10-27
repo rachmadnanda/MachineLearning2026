@@ -1,0 +1,10 @@
+Metode,Metric,k,Jumlah Cluster,% Noise,Silhouette,DBI (Euclidean),ARI,NMI,Waktu (ms),Memory (KB)
+K-Means,Euclidean,3,3,0.0,0.4849,1.271,-,-,533.0,2286.16
+DBSCAN,Euclidean,3,3,0.73,0.7588,0.2844,-,-,3279.98,5472.76
+Hierarchical,Euclidean,3,3,0.0,0.8966,0.3711,-,-,8522.75,988713.94
+K-Means,Manhattan,3,3,0.0,0.3149,1.5535,-,-,24.31,963.61
+DBSCAN,Manhattan,3,3,0.57,0.759,0.3363,-,-,3125.36,5465.58
+Hierarchical,Manhattan,3,3,0.0,0.8643,0.3736,-,-,7991.42,988707.4
+K-Means,Cosine,3,3,0.0,0.4784,1.761,-,-,46.12,590.85
+DBSCAN,Cosine,3,3,0.43,0.1315,1.5422,-,-,2833.52,2622606.1
+Hierarchical,Cosine,3,3,0.0,0.5663,1.1404,-,-,6138.13,988707.58
