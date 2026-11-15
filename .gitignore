@@ -1,2 +1,13 @@
 .venv/
 __pycache__/
+.ipynb_checkpoints/
+
+# Dataset citra berukuran besar (tidak di-commit).
+# Sumber & cara menyiapkan tercatat di notebook JS14/JS15 masing-masing.
+jobsheet/dataset/js14/
+jobsheet/dataset/js15/
+
+# Artefak model JS15 (dihasilkan oleh notebook JS15, ukurannya ±52 MB).
+# Jalankan notebook JS15 untuk membuatnya kembali sebelum deploy.
+jobsheet/js15_deployment/day_night_model.h5
+jobsheet/js15_deployment/scaler.pkl
