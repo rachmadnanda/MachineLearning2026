@@ -11,3 +11,5 @@ jobsheet/dataset/js15/
 # Jalankan notebook JS15 untuk membuatnya kembali sebelum deploy.
 jobsheet/js15_deployment/day_night_model.h5
 jobsheet/js15_deployment/scaler.pkl
+# Artefak model PBL (dibuat ulang oleh JS15).
+jobsheet_pbl/deployment/*.joblib
